@@ -1,1 +1,4 @@
-# This is a basic Readme for the devops project by KodeKloud.
+# Docker Flask Application
+    - Python Application.
+    - Utilizing Docker, Kubernetes, etc.
+    - Deploying on GCP.
